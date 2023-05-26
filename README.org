@@ -1,0 +1,9 @@
+* cl-gd
+
+UFFI bindings to the GD graphics library
+
+|---------+----------------------------------------|
+| source  | git:https://github.com/edicl/cl-gd.git |
+| commit  | 0e1812a                                |
+| systems | cl-gd                                  |
+|---------+----------------------------------------|
